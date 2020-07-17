@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce9c6ae9-0a01-4b9a-83c4-d2668d439403" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/back/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/front/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/front/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/front/src/components/DefaultScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/front/src/components/DisplayCities.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/front/src/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1_Codage/front/src/components/useCity.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Codage/back/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_Codage/back/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Codage/front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_Codage/front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Codage/front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/1_Codage/front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Codage/front/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_Codage/front/src/App.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1entwc6JZ8YEtXghsie5hYWvmYN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce9c6ae9-0a01-4b9a-83c4-d2668d439403" name="Default Changelist" comment="" />
+      <created>1594969423236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594969423236</updated>
+      <workItem from="1594969424357" duration="6155000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="262" key="FileChooserDialogImpl" timestamp="1594973842526">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="262" key="FileChooserDialogImpl/0.0.1920.1040/-3840.-174.1920.1040@0.0.1920.1040" timestamp="1594973842526" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1594972593115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-3840.-174.1920.1040@0.0.1920.1040" timestamp="1594972593115" />
+  </component>
+</project>
